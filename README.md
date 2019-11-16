@@ -58,7 +58,7 @@ Examples of scores:
 * 2 _("weak")_: "somethin1", "somethingnew" (two types)
 * 3 _("okay")_: "Somethin1", "somethinglonger" (three types)
 * 4 _("good")_: "Someth!n1", "somethingmuchlonger" (four types)
-* >=5 ("strong"): "Someth!n10", "correct horse battery staple" (five types)
+* \>=5 ("strong"): "Someth!n10", "correct horse battery staple" (five types)
 
 It's also possible to score more by having a longer password. This means
 xkcd.com/936 passwords are allowed with a score of at least 4 (provided they are
