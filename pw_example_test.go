@@ -5,7 +5,7 @@ import (
 	"sort"
 	"strings"
 
-	"../go-good-password"
+	"github.com/mei-rune/go-good-password"
 )
 
 func ExampleCheck() {
